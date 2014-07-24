@@ -1,0 +1,2 @@
+class MessageCaughtMouse (Message):
+	pass
